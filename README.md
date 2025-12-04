@@ -159,3 +159,13 @@ perpustakaan.py
 - Returning a book updates the existing row only.
 - Table output is formatted with fixed-width columns.
 - All menu interactions include validation.
+
+## 👨‍💻 Author
+
+**Ezra Satria Bagas Airlangga**  
+Master’s Student – Electrical Engineering, Telkom University  
+📧 ezra.satria16@gmail.com
+🔗[LinkedIn](https://linkedin.com/in/ezrasatriabagas/)  
+#python #mysql #librarysystem #librarymanagement  
+#capstoneproject #datavisualization #databaseproject
+#pythonproject #Purwadhika
